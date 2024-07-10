@@ -16,3 +16,5 @@
 2. **Multiple Regression**: Extends linear regression by using multiple independent variables to predict the dependent variable.
 3. **Logistic Regression**: Used when the dependent variable is categorical (e.g., binary outcomes like success/failure).
 4. **Polynomial Regression**: Models the relationship between variables as an nth degree polynomial.
+
+Jupyter notebook example:
