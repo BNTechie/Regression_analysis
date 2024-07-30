@@ -17,4 +17,4 @@
 3. **Logistic Regression**: Used when the dependent variable is categorical (e.g., binary outcomes like success/failure).
 4. **Polynomial Regression**: Models the relationship between variables as an nth degree polynomial.
 
-Jupyter notebook example: https://github.com/BhadraNivedita/Regression_analysis/blob/main/Regression_Analysis_Step_by_step_Guide.ipynb
+[Jupyter notebook example](https://github.com/BhadraNivedita/Regression_analysis/blob/main/Regression_Analysis_Step_by_step_Guide.ipynb)
